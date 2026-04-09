@@ -2,10 +2,11 @@
 # 🎓 LearnPath – Choose Your Learning Path
 
 🌐 **Live Demo:**  
-https://frontend-fullstack-tau.vercel.app/
+https://learn-path-eight.vercel.app/
 
 📂 **GitHub Repository:**  
-https://github.com/Studentcuchd/LearnPath-Choose-Your-Learning-Path
+https://github.com/meghagaur1306-art/LearnPath
+
 
 ---
 
